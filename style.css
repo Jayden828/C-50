@@ -1,0 +1,34 @@
+h1{
+    color: rgb(132, 82, 6)
+}
+img{
+    border: solid rgb(216, 41, 105);
+    border-radius: 100px;
+}
+.header{
+    background-color: rgb(235, 85, 110);
+    font-weight: bolder;
+    border: black;
+    border-radius: 50px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.item{
+    border:solid;
+    border-width: 2px;
+    border-color: rgb(119, 0, 255);
+    border-radius: 100px;
+    text-align:center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+   
+}
